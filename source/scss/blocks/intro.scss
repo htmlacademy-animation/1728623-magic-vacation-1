@@ -86,6 +86,10 @@
   }
 }
 
+.active .intro__message {
+  animation: fadeIn 0.6s ease-in;
+}
+
 .intro__message {
   flex: none;
   width: 50.9rem;
